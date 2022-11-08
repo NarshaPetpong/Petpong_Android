@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">펫퐁</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_txt">키워드를 입력하세요.</string>
+    <string name="wiring_txt">글쓰기</string>
+</resources>
